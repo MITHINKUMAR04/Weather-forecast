@@ -1,22 +1,22 @@
 **Weather Forecast**
-**Overview**
+**Overview:**
 This Weather Forecast Application provides real-time weather updates and extended forecasts based on user location. Built using JavaScript, HTML, CSS, and Tailwind CSS, the app integrates with a weather API to fetch accurate weather data.
 
-**Features**
+**Features:**
 Real-time Weather Updates: Get current weather conditions for any location.
 Location-based Forecasts: Automatic location detection for localized weather information.
 Extended Forecasts: View 7-day weather forecasts.
 User Interaction: Interactive UI for seamless user experience.
 Responsive Design: Optimized for both desktop and mobile devices.
 
-**Technologies Used**
+**Technologies Used:**
 #JavaScript
 #HTML
 #CSS
 #TailwindCSS
 #WeatherAPI
 
-**Installation**
+**Installation:**
 Clone the repository:
 git clone https://github.com/yourusername/weather-forecast-app.git
 
@@ -26,7 +26,7 @@ cd weather-forecast-app
 Install the dependencies:
 npm install
 
-**Usage**
+**Usage:**
 Obtain an API key from a weather service provider (e.g., OpenWeatherMap).
 Configure the API key:
 Create a .env file in the root directory.
@@ -42,10 +42,10 @@ Create a .env file in the root directory.
 └── assets/
     └── images/
 
-**API Integration**
+**API Integration:**
 This project uses the OpenWeatherMap API to fetch weather data. Ensure you have a valid API key and configure it in the .env file as mentioned above.
 
-**Fork the repository.**
+**Fork the repository:**
 Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
